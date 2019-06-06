@@ -1,4 +1,4 @@
-package com.same.maven.Test-project;
+package com.same.maven.Test-project
 
 /**
  *
