@@ -6,6 +6,6 @@ package com.same.maven.Test-project;
  */
 public class Main {
     public static void main(String... param) {
-        System.out.println("Starting application...");
+        System.out.println("Starting application...")
     }
 }
